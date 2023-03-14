@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n l ianta >> inacta
+tail -n l iacta >> inacta
